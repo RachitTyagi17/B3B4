@@ -1,0 +1,15 @@
+a=1
+print(a)
+a=1.1
+print(a)
+a="1"
+print(a)
+a="Rachit"
+#print(b)
+print(a)
+a='TYAGI'
+print(a)
+a=True
+print(a)
+a=1+2j
+print(a)
